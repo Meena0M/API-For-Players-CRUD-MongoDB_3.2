@@ -102,7 +102,7 @@ app.delete('/players/:id', async (req, res) => {
 
 // Define a route for the root URL ("/")
 app.get('/', (req, res) => {
-    res.send('Welcome to the Player API');
+    res.send('Welcome to the Player API Meena');
   });
   
 // Start the server
